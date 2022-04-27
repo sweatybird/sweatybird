@@ -2,4 +2,4 @@
 - 👀 I’m interested in video game programming (C#, Unity).
 - 🌱 I’m currently learning Unity.
 - 💞️ I’m looking to collaborate on an RPG management game.
-- 📫 How to reach me: message me on here!
+- 📫 How to reach me: N/A
