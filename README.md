@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @sweatybird
 - 👀 I’m interested in video game programming (Godot, Monogame, Unity).
-- 🌱 I’m currently learning Godot.
-- 💞️ I’m looking to collaborate on an RPG management game.
+- 🌱 I’m currently learning Twine.
 - 📫 How to reach me: Owl
