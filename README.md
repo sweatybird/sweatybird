@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @sweatybird
 - 👀 I’m interested in video game design. 
-- 🌱 I’m currently learning Twine.
+- 🌱 I’m currently learning GDScript and Twine.
 - 🐱🐸🚊
